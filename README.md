@@ -1,6 +1,6 @@
 # Cognifyz-Technologies-Internship-Level1-Task3
 
-# 🍽️ Restaurant Location & Rating Analysis  
+# 🍽️ Geospatial Analysis  
 
 ## 📌 Project Overview  
 This project analyzes and visualizes restaurant data using **latitude, longitude, city, country, and rating information**.  
